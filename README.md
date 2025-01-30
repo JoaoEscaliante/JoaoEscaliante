@@ -1,7 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Joao+Escaliante;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF33CC&size=35&center=true&vCenter=true&width=**1000&lines=Hey,+Meu+nome+é+Joao+Escaliante;Tenho+24+anos+;Sou+do+Brasil;Estudante+de+Data+Scientist;Bem-Vindos!**)**](https://git.io/typing-svg)
 
-### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+
+ ### Main skills:
+
+
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+
+![Power BI](https://img.shields.io/badge/-Powerbi-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+
+
+
+<!-- Logo do Python -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo do Python" width="200" />
+</p>
+ <!-- Logo do SQL -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Logo SQL" width="200" />
+</p>
+
+<!-- Logo do PowerBi -->
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
